@@ -7,6 +7,8 @@ create new project
 deploy image and select as image webjframework/webjframework:openshift
 
 Optional change ENVIROMENT VAR  WAR_INI_WGET_URL to your Wget path for WebJ.war and webjdata.ini without / at the end !!!
+e.g WAR_INI_WGET_URL https://raw.githubusercontent.com/your_username/your_repository/master
+
 
 
 deploy ...
